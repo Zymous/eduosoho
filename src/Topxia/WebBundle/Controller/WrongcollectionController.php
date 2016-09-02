@@ -18,7 +18,7 @@ class WrongcollectionController extends BaseController {
 
         $paginator = new Paginator(
             $request,
-            $this->getTestpaperService()->findTestpaperResultsCountByUserId($user['id']),
+            $this->getWrongCollectionsService()->getWrongCollections($user['id']),
             10
         );
 

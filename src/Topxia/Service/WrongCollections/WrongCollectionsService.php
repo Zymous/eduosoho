@@ -10,7 +10,9 @@ namespace Topxia\Service\WrongCollections;
 interface WrongCollectionsService {
 
     //获取错题
-    public function getWrongCollections($id);
+    public function getWrongCollections($user_id);
+
+
 
 
 }
