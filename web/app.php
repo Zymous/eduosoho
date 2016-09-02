@@ -30,7 +30,7 @@ $loader->register(true);
 
 require_once __DIR__.'/../app/AppKernel.php';
 //require_once __DIR__.'/../app/AppCache.php';
-
+//开发设置 dev true 生产设置为prod false 在开发模式下修改代码方能生效
 $kernel = new AppKernel('dev', true);
 $kernel->loadClassCache();
 //$kernel = new AppCache($kernel);

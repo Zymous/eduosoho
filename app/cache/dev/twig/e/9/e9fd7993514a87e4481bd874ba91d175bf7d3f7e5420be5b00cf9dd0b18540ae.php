@@ -32,8 +32,9 @@ class __TwigTemplate_e9fd7993514a87e4481bd874ba91d175bf7d3f7e5420be5b00cf9dd0b18
     {
         // line 6
         echo "
+
 ";
-        // line 7
+        // line 8
         echo twig_escape_filter($this->env, $this->getAttribute((isset($context["web_macro"]) ? $context["web_macro"] : $this->getContext($context, "web_macro")), "flash_messages", array(), "method"), "html", null, true);
         echo "
 
@@ -42,21 +43,21 @@ class __TwigTemplate_e9fd7993514a87e4481bd874ba91d175bf7d3f7e5420be5b00cf9dd0b18
       <div class=\"col-md-3 control-label\"></div>
       <div class=\"controls col-md-8 radios\" id=\"defaultCoursePicture\">
         ";
-        // line 13
+        // line 14
         echo $this->env->getExtension('topxia_html_twig')->radios("coursePicture", array(1 => "自定义默认课程图片", 0 => "系统默认课程图片"), (($this->getAttribute((isset($context["defaultSetting"]) ? $context["defaultSetting"] : null), "defaultCoursePicture", array(), "any", true, true)) ? (_twig_default_filter($this->getAttribute((isset($context["defaultSetting"]) ? $context["defaultSetting"] : null), "defaultCoursePicture", array()), 0)) : (0)));
         echo "
         <p>支持jpg、gif、png格式的图片，建议尺寸：480*270px.</p>
         ";
-        // line 15
-        $this->loadTemplate("TopxiaAdminBundle:System:default-course-picture.html.twig", "TopxiaAdminBundle:System:wrong-collection.html.twig", 15)->display($context);
         // line 16
+        $this->loadTemplate("TopxiaAdminBundle:System:default-course-picture.html.twig", "TopxiaAdminBundle:System:wrong-collection.html.twig", 16)->display($context);
+        // line 17
         echo "      </div>
     </div>
   </fieldset>
 
 <form class=\"form-horizontal\" method=\"post\" id=\"course-form\" novalidate>
   <input type=\"hidden\" name=\"defaultCoursePicture\" value=\"";
-        // line 21
+        // line 22
         echo twig_escape_filter($this->env, (($this->getAttribute((isset($context["defaultSetting"]) ? $context["defaultSetting"] : null), "defaultCoursePicture", array(), "any", true, true)) ? (_twig_default_filter($this->getAttribute((isset($context["defaultSetting"]) ? $context["defaultSetting"] : null), "defaultCoursePicture", array()), 0)) : (0)), "html", null, true);
         echo "\">
 
@@ -66,7 +67,7 @@ class __TwigTemplate_e9fd7993514a87e4481bd874ba91d175bf7d3f7e5420be5b00cf9dd0b18
     </div>
   </div>
   <input type=\"hidden\" name=\"_csrf_token\" value=\"";
-        // line 28
+        // line 29
         echo twig_escape_filter($this->env, $this->env->getExtension('form')->renderCsrfToken("site"), "html", null, true);
         echo "\">
 </form>
@@ -86,6 +87,6 @@ class __TwigTemplate_e9fd7993514a87e4481bd874ba91d175bf7d3f7e5420be5b00cf9dd0b18
 
     public function getDebugInfo()
     {
-        return array (  70 => 28,  60 => 21,  53 => 16,  51 => 15,  46 => 13,  37 => 7,  34 => 6,  31 => 5,  27 => 1,  25 => 3,  11 => 1,);
+        return array (  71 => 29,  61 => 22,  54 => 17,  52 => 16,  47 => 14,  38 => 8,  34 => 6,  31 => 5,  27 => 1,  25 => 3,  11 => 1,);
     }
 }

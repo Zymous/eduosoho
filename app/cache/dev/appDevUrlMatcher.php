@@ -2143,6 +2143,11 @@ class appDevUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirectab
                 return array (  '_controller' => 'Topxia\\WebBundle\\Controller\\MyThreadController::discussionsAction',  '_route' => 'my_discussions',);
             }
 
+            // my_wrongcollections
+            if ($pathinfo === '/my/wrongcollections') {
+                return array (  '_controller' => 'Topxia\\WebBundle\\Controller\\WrongcollectionController::indexAction',  '_route' => 'my_wrongcollections',);
+            }
+
             if (0 === strpos($pathinfo, '/my/note')) {
                 if (0 === strpos($pathinfo, '/my/notebook')) {
                     // my_notebooks

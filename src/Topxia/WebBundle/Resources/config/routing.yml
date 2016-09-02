@@ -1269,6 +1269,10 @@ my_discussions:
     pattern: /my/discussions
     defaults: { _controller: TopxiaWebBundle:MyThread:discussions }
 
+my_wrongcollections:
+    pattern: /my/wrongcollections
+    defaults: { _controller: TopxiaWebBundle:Wrongcollection:index }
+
 my_notebooks:
     pattern: /my/notebooks
     defaults: { _controller: TopxiaWebBundle:MyNotebook:index }
