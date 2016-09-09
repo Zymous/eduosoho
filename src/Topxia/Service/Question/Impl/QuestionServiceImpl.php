@@ -132,6 +132,7 @@ class QuestionServiceImpl extends BaseService implements QuestionService
     public function statQuestionTimes ($answers)
     {
         $ids = array_keys($answers);
+        var_dump($answers);
         $rightIds = array();
         foreach ($answers as $questionId => $answer) {
             if ($answer['status'] == 'right'){

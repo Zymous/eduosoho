@@ -1,0 +1,23 @@
+{% if item %}
+
+			<div class="testpaper-question-footer clearfix">
+			  <div class="testpaper-question-result">
+
+					<ul class="nav nav-pills nav-mini mbm">
+						<li><a href="#teacherAnswer{{ item.id }}" data-toggle="tab">参考答案</a></li>
+						<li>
+						<strong class="text-success">{{ item.answer|join('或')|bbCode2Html|raw|nl2br }}</strong>
+						</li>
+					</ul>
+			  </div>
+			  <div class="testpaper-question-actions pull-right">
+				  <a href="/lesson/215/test/1/redo" class="btn btn-default btn-sm">重做知识点题</a>
+				  <a href="../{{ item.target }}" class="btn btn-link btn-sm" target="_blank">查看知识点</a>
+				{% include 'TopxiaWebBundle:MyWrongcollection:flag.html.twig' with { flags:['analysis'] } %}
+		  	  </div>
+			</div>
+			<div class="testpaper-question-analysis well" style="display:none;">{{ item.analysis|bbCode2Html|raw|nl2br }}</div>
+
+
+
+	{% endif %}

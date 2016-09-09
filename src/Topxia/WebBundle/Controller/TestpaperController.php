@@ -11,7 +11,6 @@ class TestpaperController extends BaseController
     public function indexAction(Request $request)
     {
         $user = $this->getCurrentUser();
-
         $paginator = new Paginator(
             $request,
             $this->getTestpaperService()->findTestpaperResultsCountByUserId($user['id']),

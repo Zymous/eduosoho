@@ -49,15 +49,15 @@ class __TwigTemplate_e60a6c570e8c6417f0dd862ba7af4feef28c1cd738812e33c3d31f9bed5
 \t\t<ul class=\"nav nav-tabs\">
 \t\t\t<li class=\"";
         // line 14
-        echo twig_escape_filter($this->env, ((array_key_exists("myQuizActive", $context)) ? (_twig_default_filter((isset($context["myQuizActive"]) ? $context["myQuizActive"] : $this->getContext($context, "myQuizActive")), "")) : ("")), "html", null, true);
+        echo twig_escape_filter($this->env, ((array_key_exists("myCollections", $context)) ? (_twig_default_filter((isset($context["myCollections"]) ? $context["myCollections"] : $this->getContext($context, "myCollections")), "")) : ("")), "html", null, true);
         echo "\"><a href=\"";
         echo $this->env->getExtension('routing')->getPath("my_wrongcollections");
-        echo "\">错题记录</a></li>
+        echo "\">错题纪录</a></li>
 \t\t\t<li class=\"";
         // line 15
-        echo twig_escape_filter($this->env, ((array_key_exists("favoriteActive", $context)) ? (_twig_default_filter((isset($context["favoriteActive"]) ? $context["favoriteActive"] : $this->getContext($context, "favoriteActive")), "")) : ("")), "html", null, true);
+        echo twig_escape_filter($this->env, ((array_key_exists("statisticActive", $context)) ? (_twig_default_filter((isset($context["statisticActive"]) ? $context["statisticActive"] : $this->getContext($context, "statisticActive")), "")) : ("")), "html", null, true);
         echo "\"><a href=\"";
-        echo $this->env->getExtension('routing')->getPath("my_show_favorite_question");
+        echo $this->env->getExtension('routing')->getPath("my_wrongstatistics");
         echo "\">错题统计</a></li>
 \t\t</ul>
 \t\t<br>

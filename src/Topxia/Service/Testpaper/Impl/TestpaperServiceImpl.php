@@ -681,9 +681,7 @@ class TestpaperServiceImpl extends BaseService implements TestpaperService
 
         //是否要加入教师阅卷的锁
         $this->getTestpaperItemResultDao()->updateItemEssays($testResults, $id);
-
         $this->getQuestionService()->statQuestionTimes($testResults);
-
         $testpaperResult = $this->getTestpaperResultDao()->getTestpaperResult($id);
 
         $subjectiveScore = array_sum(ArrayToolkit::column($testResults, 'score'));

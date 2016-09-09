@@ -10,4 +10,10 @@ namespace Topxia\Service\WrongCollections\Dao;
 interface WrongCollectionsDao {
 
     public function getWrongCollections($user_id);
+
+    public function getWrongCollectionsId($user_id);
+
+    public function getWrongCollectionsCount($user_id);
+
+    public function getAllUserDone($user_id);
 }

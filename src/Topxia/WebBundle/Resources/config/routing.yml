@@ -1273,6 +1273,10 @@ my_wrongcollections:
     pattern: /my/wrongcollections
     defaults: { _controller: TopxiaWebBundle:Wrongcollection:index }
 
+my_wrongstatistics:
+    pattern: /my/wrongstatics
+    defaults: { _controller: TopxiaWebBundle:Wrongcollection:static }
+
 my_notebooks:
     pattern: /my/notebooks
     defaults: { _controller: TopxiaWebBundle:MyNotebook:index }

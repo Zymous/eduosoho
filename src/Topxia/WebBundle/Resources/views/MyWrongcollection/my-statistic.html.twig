@@ -1,0 +1,31 @@
+{% extends 'TopxiaWebBundle:MyWrongcollection:layout.html.twig' %}
+
+{% block title %}错题统计 - {{ parent() }}{% endblock %}
+
+{% block list %}
+{% if questions %}
+  {#{% if myTestpaperResults %}#}
+    {#<table class="table table-striped table-hover">#}
+    	{#<tbody>#}
+    		{#{% for myTestpaperResult in myTestpaperResults %}#}
+    			{#{% set myTestpaper = myTestpapers[myTestpaperResult.testId]|default(null) %}#}
+    			{#{% if myTestpaper %}#}
+    				{#{% set course = courses[myTestpaper.target|get_course_id] %}#}
+    			{#{% endif %}#}
+    				{#{% include 'TopxiaWebBundle:MyQuiz:my-quiz-tr.html.twig' %}#}
+    		{#{% endfor %}#}
+    	{#</tbody>#}
+    {#</table>#}
+    {#{{ web_macro.paginator(paginator) }}#}
+  {#{% else %}#}
+    {#<div class="empty">还没有参加过任何考试</div>#}
+  {#{% endif %}#}
+	<div>您的做题总数是： {{ questions }}</div>
+	{% for info in infos %}
+	<div>第{{ info[0].id }}门课程是{{ info[0].title }}</div>
+	{% endfor %}
+	{% else %}
+	<div class="empty">还没有任何统计记录 我很慌怎么办</div>
+{%  endif %}
+
+{% endblock %}

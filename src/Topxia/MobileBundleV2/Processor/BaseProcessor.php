@@ -228,6 +228,10 @@ class BaseProcessor {
         return $this->controller->getService('Testpaper.TestpaperService');
     }
 
+    protected  function getWrongCollectionsService() {
+        return $this->controller->getService('WrongCollections.WrongCollectionsService');
+    }
+
     protected function getAnnouncementService()
     {
         return $this->controller->getService('Announcement.AnnouncementService');

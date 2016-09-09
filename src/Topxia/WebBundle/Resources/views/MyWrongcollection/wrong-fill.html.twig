@@ -1,0 +1,21 @@
+{%  if item %}
+		<div class="testpaper-question-footer clearfix">
+		  <div class="testpaper-question-result">
+		    <ul>
+		      {% for index, answer in item.answer %}
+			    	<li>
+			    	  填空({{index+1}})： 正确答案 <strong class="text-success">{{ answer|join(' 或 ') }}</strong>
+			    	</li>
+			  {% endfor %}
+		    </ul>
+
+			</div>
+		  <div class="testpaper-question-actions pull-right">
+			  <a href="/test/2/preview" class="btn btn-default btn-sm">重做知识点题</a>
+			  <a href="../{{ item.target }}" class="btn btn-link btn-sm" target="_blank">查看知识点</a>
+				{% include 'TopxiaWebBundle:MyWrongcollection:flag.html.twig' with { flags:['analysis'] } %}
+		  </div>
+
+		</div>
+		<div class="testpaper-question-analysis well" style="display:none;">{{ item.analysis|bbCode2Html|raw|nl2br }}</div>
+{% endif %}

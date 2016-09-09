@@ -1,0 +1,25 @@
+{% if item %}
+<div class="testpaper-question testpaper-question-choice {% if setting('magic.testpaper_watermark') %}testpaper-watermark{% endif %}" data-watermark-url="{{ path('cloud_testpaper_watermark') }}" id="question{{ item.id }}">
+	<div class="testpaper-question-body">
+	<div class="testpaper-question-stem-wrap clearfix">
+	<div class="testpaper-question-seq-wrap">
+		<div class="testpaper-question-seq">{% if item.id|default(null) %}{{ item.id }}{% endif %}</div>
+	</div>
+	{% if item.type == 'fill' %}
+		<div class="testpaper-question-stem">{{ item.stem|fill_question_stem_html|bbCode2Html|raw|nl2br }}</div>
+
+	{% else %}
+		<div class="testpaper-question-stem">{{ item.stem|bbCode2Html|raw|nl2br }}</div>
+	{% endif %}
+	</div>
+	{% if item.type in ['single_choice', 'choice', 'uncertain_choice'] %}
+		{% include 'TopxiaWebBundle:MyWrongcollection:wrong-choice.html.twig' %}
+
+	{% else %}
+		{% include 'TopxiaWebBundle:MyWrongcollection:wrong-' ~ item.type ~ '.html.twig' %}
+	{% endif %}
+	{#<div class="testpaper-question-stem">{{ item.analysis|bbCode2Html|raw|nl2br }}</div>#}
+	{#<a class="btn btn-sm btn-link analysis-btn"><span class="glyphicon glyphicon-chevron-down"></span> 展开解析</a>#}
+	{#<a class="btn btn-sm btn-link unanalysis-btn" style="display:none"><span class="glyphicon glyphicon-chevron-up"></span> 收起解析</a>#}
+</div>
+{% endif %}

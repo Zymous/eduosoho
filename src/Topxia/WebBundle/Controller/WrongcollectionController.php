@@ -15,13 +15,32 @@ use Topxia\Service\Task\TaskProcessor\TaskProcessorFactory;
 class WrongcollectionController extends BaseController {
     public function indexAction(Request $request) {
         $user = $this->getCurrentUser();
+        $tmp  = $this->getWrongCollectionsService()->getWrongCollectionsId($user['id']);
+        if($tmp) {
+            foreach ($tmp as $k => $v) {
+                $ids[] = $v['questionId'];
+            }
+            $res = $this->getWrongCollectionsService()->getQuestions($ids);
+            foreach ($res as $k => $v) {
+                if ($v["metas"] != "[]") {
+                    $res[$k]["metas"] = json_decode($v["metas"], true);
+                }
+                else if ($v["type"] == "fill") {
+                    $res[$k]["answer"] = json_decode($v["answer"], true);
+                }
+                else if ($v["type"] == "essay") {
+                    $res[$k]["answer"] = json_decode($v["answer"]);
+                }
+                $tmp = str_replace('-','/',$res[$k]["target"]);
+                $res[$k]["target"] = str_replace('lesson','learn#lesson',$tmp);
+            }
 
-        $paginator = new Paginator(
-            $request,
-            $this->getWrongCollectionsService()->getWrongCollections($user['id']),
-            10
-        );
-
+//        $paginator = new Paginator(
+//            $request,
+//            $this->getWrongCollectionsService()->getWrongCollectionsId($user['id']),
+//            10
+//        );
+//        var_dump($paginator);
 //        $wrongcollectionsResults = $this->getTestpaperService()->findTestpaperResultsByUserId(
 //            $user['id'],
 //            $paginator->getOffsetCount(),
@@ -58,7 +77,33 @@ class WrongcollectionController extends BaseController {
 //            'courses'            => $courses,
 //            'paginator'          => $paginator
 //        ));
-        return $this->render('TopxiaWebBundle:MyWrongcollection:layout.html.twig');
+            return $this->render('TopxiaWebBundle:MyWrongcollection:my-wrongcollections.html.twig', array(
+                'myCollections' => 'active',
+                'res' => $res
+
+            ));
+        }
+        else {
+            return $this->render('TopxiaWebBundle:MyWrongcollection:my-wrongcollections.html.twig',array(
+                'res' => null
+            ));
+        }
+    }
+
+    public function staticAction(Request $request) {
+        $user = $this->getCurrentUser();
+        $infos = $this->getWrongCollectionsService()->getCourseInfo($user['id']);
+        $questions = $this->getWrongCollectionsService()->getAllUserDone($user['id']);
+        return $this->render('TopxiaWebBundle:MyWrongcollection:my-statistic.html.twig',array(
+            'statisticActive'   => 'active',
+            'questions'         => $questions,
+            'infos'              => $infos,
+        ));
+    }
+
+    protected function getWrongCollectionsService()
+    {
+        return $this->getServiceKernel()->createService('WrongCollections.WrongCollectionsService');
     }
 
 }

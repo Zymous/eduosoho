@@ -11,8 +11,8 @@
 	</div>
 	<div class="panel-body">
 		<ul class="nav nav-tabs">
-			<li class="{{ myQuizActive|default('') }}"><a href="{{ path('my_wrongcollections') }}">错题记录</a></li>
-			<li class="{{ favoriteActive|default('') }}"><a href="{{ path('my_show_favorite_question') }}">错题统计</a></li>
+			<li class="{{ myCollections|default('') }}"><a href="{{ path('my_wrongcollections') }}">错题纪录</a></li>
+			<li class="{{ statisticActive|default('') }}"><a href="{{ path('my_wrongstatistics') }}">错题统计</a></li>
 		</ul>
 		<br>
 		{% block list %}{% endblock %}

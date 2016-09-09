@@ -10,36 +10,68 @@ namespace Topxia\Service\WrongCollections\Impl;
 use Topxia\Service\Common\BaseService;
 use Topxia\Service\WrongCollections\WrongCollectionsService;
 
-class WrongCollectionsServiceImpl extends BaseService implements WrongCollectionsService {
+class WrongCollectionsServiceImpl extends BaseService implements WrongCollectionsService
+{
     public function getWrongCollections($user_id)
     {
         // TODO: Implement getWrongCollections() method.
-        $wrongCollections = $this->getWrongCollectionsDao()->getWrongCollections($user_id);
-        return WrongCollectionsSerialize::unserialize($wrongCollections);
-    }
-}
-
-class WrongCollectionsSerialize
-{
-    public static function serialize(array &$wrongCollections)
-    {
-        return $wrongCollections;
+        return $this->getWrongCollectionsDao()->getWrongCollections($user_id);
     }
 
-
-    public static function unserialize(array $wrongCollections = null)
+    public function getWrongCollectionsId($user_id)
     {
-        $wrongCollections['includeImg'] = false;
-        if (preg_match('/<img (.*?)>/', $wrongCollections['stem'])) {
-            $wrongCollections['includeImg'] = true;
-        }
-        return $wrongCollections;
+        // TODO: Implement getWrongCollectionsId() method.
+        return $this->getWrongCollectionsDao()->getWrongCollectionsId($user_id);
     }
 
-    public static function unserializes(array $wrongCollections)
+    public function getWrongCollectionsCount($user_id)
     {
-        return array_map(function($wrongCollections) {
-            return WrongCollectionsSerialize::unserialize($wrongCollections);
-        }, $wrongCollections);
+        // TODO: Implement getWrongCollectionsCount() method.
+        return $this->getWrongCollectionsDao()->getWrongCollectionsCount($user_id);
+    }
+
+    public function getQuestions($ids)
+    {
+        // TODO: Implement getQuesetions() method.
+        return $this->getQuestionsDao()->getQuestions($ids);
+    }
+
+    public function getAllUserDone($user_id)
+    {
+        // TODO: Implement getAllUserDone() method.
+        return $this->getWrongCollectionsDao()->getAllUserDone($user_id);
+    }
+
+    public function findUserCourseId($user_id)
+    {
+        // TODO: Implement findUserCourseId() method.
+        return $this->getCourseInfoDao()->findUserCourseId($user_id);
+    }
+
+    public function getCourseTitle($course_id)
+    {
+        // TODO: Implement getCourseTitle() method.
+        return $this->getCourseInfoDao()->getCourseTitle($course_id);
+    }
+
+    public function getCourseInfo($user_id)
+    {
+        // TODO: Implement getCourseInfo() method.
+        return $this->getCourseInfoDao()->getCourseInfo($user_id);
+    }
+
+    protected function getWrongCollectionsDao()
+    {
+        return $this->createDao('WrongCollections.WrongCollectionsDao');
+    }
+
+    protected function getQuestionsDao()
+    {
+        return $this->createDao('WrongCollections.QuestionsDao');
+    }
+
+    protected function getCourseInfoDao()
+    {
+        return $this->createDao('WrongCollections.CourseInfoDao');
     }
 }

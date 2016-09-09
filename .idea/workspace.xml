@@ -2,11 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f37d7966-e4f3-420d-8743-ef37c5f1c873" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/MyWrongcollection/my-wrongcollections.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/index.csv" afterPath="$PROJECT_DIR$/app/cache/dev/profiler/index.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/e/6/e60a6c570e8c6417f0dd862ba7af4feef28c1cd738812e33c3d31f9bed5d420e.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/e/6/e60a6c570e8c6417f0dd862ba7af4feef28c1cd738812e33c3d31f9bed5d420e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/data/api_server.json" afterPath="$PROJECT_DIR$/app/data/api_server.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/data/session_gc_time.data" afterPath="$PROJECT_DIR$/app/data/session_gc_time.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/logs/cloud-api.log" afterPath="$PROJECT_DIR$/app/logs/cloud-api.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/logs/dev.log" afterPath="$PROJECT_DIR$/app/logs/dev.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Topxia/MobileBundleV2/Processor/BaseProcessor.php" afterPath="$PROJECT_DIR$/src/Topxia/MobileBundleV2/Processor/BaseProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Topxia/Service/Question/Impl/QuestionServiceImpl.php" afterPath="$PROJECT_DIR$/src/Topxia/Service/Question/Impl/QuestionServiceImpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Topxia/Service/Testpaper/Impl/TestpaperServiceImpl.php" afterPath="$PROJECT_DIR$/src/Topxia/Service/Testpaper/Impl/TestpaperServiceImpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Topxia/Service/WrongCollections/Dao/Impl/WrongCollectionsDaoImpl.php" afterPath="$PROJECT_DIR$/src/Topxia/Service/WrongCollections/Dao/Impl/WrongCollectionsDaoImpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Topxia/Service/WrongCollections/Dao/WrongCollectionsDao.php" afterPath="$PROJECT_DIR$/src/Topxia/Service/WrongCollections/Dao/WrongCollectionsDao.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Topxia/Service/WrongCollections/Impl/WrongCollectionsServiceImpl.php" afterPath="$PROJECT_DIR$/src/Topxia/Service/WrongCollections/Impl/WrongCollectionsServiceImpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Topxia/Service/WrongCollections/WrongCollectionsService.php" afterPath="$PROJECT_DIR$/src/Topxia/Service/WrongCollections/WrongCollectionsService.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Topxia/WebBundle/Controller/TestpaperController.php" afterPath="$PROJECT_DIR$/src/Topxia/WebBundle/Controller/TestpaperController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Topxia/WebBundle/Controller/WrongcollectionController.php" afterPath="$PROJECT_DIR$/src/Topxia/WebBundle/Controller/WrongcollectionController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Topxia/WebBundle/Resources/config/routing.yml" afterPath="$PROJECT_DIR$/src/Topxia/WebBundle/Resources/config/routing.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/MyWrongcollection/layout.html.twig" afterPath="$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/MyWrongcollection/layout.html.twig" />
     </list>
     <ignored path="edusoho.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,24 +41,35 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="edusoho" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WrongCollectionsDaoImpl.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Topxia/Service/WrongCollections/Dao/Impl/WrongCollectionsDaoImpl.php">
+      <file leaf-file-name="my-wrongcollections.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/MyWrongcollection/my-wrongcollections.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.645162">
-              <caret line="25" column="32" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="32" />
-              <folding>
-                <element signature="e#6#87#0#PHP" expanded="true" />
-                <element signature="e#141#175#0#PHP" expanded="true" />
-                <marker date="1472806451958" expanded="true" signature="572:586" placeholder="SELECT * FRO..${{$this}..." />
-                <marker date="1472806451958" expanded="true" signature="572:600" placeholder="SELECT * FRO..." />
-                <marker date="1472806451958" expanded="true" signature="572:638" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-              </folding>
+            <state vertical-scroll-proportion="-7.096774">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WrongcollectionController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Controller/WrongcollectionController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.5161295">
+              <caret line="99" column="42" selection-start-line="99" selection-start-column="42" selection-end-line="99" selection-end-column="42" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -47,65 +77,58 @@
       <file leaf-file-name="WrongCollectionsServiceImpl.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Topxia/Service/WrongCollections/Impl/WrongCollectionsServiceImpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.8387096">
-              <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+            <state vertical-scroll-proportion="-0.7096774">
+              <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WrongCollectionsService.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Topxia/Service/WrongCollections/WrongCollectionsService.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.322581">
+              <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CourseInfoDao.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Topxia/Service/WrongCollections/Dao/CourseInfoDao.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.096774">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CourseInfoDaoImpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Topxia/Service/WrongCollections/Dao/Impl/CourseInfoDaoImpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.645162">
+              <caret line="44" column="99" selection-start-line="44" selection-start-column="99" selection-end-line="44" selection-end-column="99" />
               <folding>
-                <element signature="e#6#87#0#PHP" expanded="true" />
-                <element signature="e#137#175#0#PHP" expanded="true" />
+                <element signature="e#141#175#0#PHP" expanded="true" />
+                <marker date="1473410236304" expanded="true" signature="583:613" placeholder="SELECT cours..$..." />
+                <marker date="1473410236304" expanded="true" signature="583:648" placeholder="SELECT cours..${$table_cll}..." />
+                <marker date="1473410236304" expanded="true" signature="949:967" placeholder="SELECT title..${{$}..." />
+                <marker date="1473410236304" expanded="true" signature="949:983" placeholder="SELECT title..." />
+                <marker date="1473410236304" expanded="true" signature="949:996" placeholder="SELECT title..${{$this-&gt;table_c}..." />
+                <marker date="1473410236304" expanded="true" signature="1301:1308" placeholder="SELECT id,ti..${{$this-&gt;table_c}..." />
+                <marker date="1473410236304" expanded="true" signature="1301:1366" placeholder="SELECT DISTI..${{$this-&gt;table_cll}..." />
+                <marker date="1473410236304" expanded="true" signature="1498:1549" placeholder="SELECT id, t..${{$this-&gt;table_c}..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QuestionController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Controller/QuestionController.php">
+      <file leaf-file-name="my-statistic.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/MyWrongcollection/my-statistic.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.064516">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding>
-                <element signature="e#46#91#0#PHP" expanded="true" />
-                <element signature="e#252#1371#0#PHP" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestpaperController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Controller/TestpaperController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.8387096">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding>
-                <element signature="e#2128#3900#0#PHP" expanded="false" />
-                <element signature="e#3906#5038#0#PHP" expanded="false" />
-                <element signature="e#5044#5693#0#PHP" expanded="false" />
-                <element signature="e#5699#6499#0#PHP" expanded="false" />
-                <element signature="e#6505#8315#0#PHP" expanded="false" />
-                <element signature="e#8321#10559#0#PHP" expanded="false" />
-                <element signature="e#10565#11451#0#PHP" expanded="false" />
-                <element signature="e#11457#11984#0#PHP" expanded="false" />
-                <element signature="e#11990#14722#0#PHP" expanded="false" />
-                <element signature="e#14728#17897#0#PHP" expanded="false" />
-                <element signature="e#17903#18060#0#PHP" expanded="false" />
-                <element signature="e#18066#18969#0#PHP" expanded="false" />
-                <element signature="e#18975#21110#0#PHP" expanded="false" />
-                <element signature="e#21116#23247#0#PHP" expanded="false" />
-                <element signature="e#23253#24782#0#PHP" expanded="false" />
-                <element signature="e#24788#25579#0#PHP" expanded="false" />
-                <element signature="e#25585#25717#0#PHP" expanded="false" />
-                <element signature="e#25723#25862#0#PHP" expanded="false" />
-                <element signature="e#25868#26004#0#PHP" expanded="false" />
-                <element signature="e#26422#26536#0#PHP" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WrongcollectionController.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Controller/WrongcollectionController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45">
-              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.47045454">
+              <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -129,17 +152,39 @@
         <option value="$PROJECT_DIR$/src/Topxia/AdminBundle/Controller/CourseSettingController.php" />
         <option value="$PROJECT_DIR$/src/Topxia/AdminBundle/Resources/views/System/wrong-collection.html.twig" />
         <option value="$PROJECT_DIR$/web/app.php" />
-        <option value="$PROJECT_DIR$/src/Topxia/WebBundle/Resources/config/routing.yml" />
         <option value="$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/My/layout.html.twig" />
         <option value="$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/MyQuiz/layout.html.twig" />
-        <option value="$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/MyWrongcollection/layout.html.twig" />
-        <option value="$PROJECT_DIR$/src/Topxia/MobileBundleV2/Processor/BaseProcessor.php" />
         <option value="$PROJECT_DIR$/src/Topxia/Service/Question/Dao/Impl/QuestionDaoImpl.php" />
+        <option value="$PROJECT_DIR$/src/Topxia/MobileBundleV2/Processor/BaseProcessor.php" />
+        <option value="$PROJECT_DIR$/src/Topxia/WebBundle/Controller/TestpaperController.php" />
+        <option value="$PROJECT_DIR$/src/Topxia/Service/Testpaper/Dao/Impl/TestpaperResultDaoImpl.php" />
+        <option value="$PROJECT_DIR$/src/Topxia/Service/Testpaper/Impl/TestpaperServiceImpl.php" />
+        <option value="$PROJECT_DIR$/src/Topxia/Service/Question/Impl/QuestionServiceImpl.php" />
+        <option value="$PROJECT_DIR$/src/Topxia/Service/WrongCollections/Dao/QuestionsDao.php" />
+        <option value="$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/MyWrongcollection/my-wongcollecionts.html.twig" />
+        <option value="$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/MyWrongcollection/my-statistic.twig" />
+        <option value="$PROJECT_DIR$/src/Topxia/WebBundle/Resources/config/routing.yml" />
+        <option value="$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/MyWrongcollection/layout.html.twig" />
+        <option value="$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/MyWrongcollection/my-wong-tr.html.twig" />
+        <option value="$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/MyWrongcollection/my-wrongcollections.html.twig" />
+        <option value="$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/QuizQuestionTest/do-test-choice.html.twig" />
+        <option value="$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/QuizQuestionTest/flag.html.twig" />
+        <option value="$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/MyWrongcollection/flag.html.twig" />
+        <option value="$PROJECT_DIR$/web/bundles/topxiaweb/js/controller/quiz-question/do-homework.js" />
+        <option value="$PROJECT_DIR$/web/bundles/topxiaweb/js/controller/wrong-collections/show-analysis.js" />
+        <option value="$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/MyWrongcollection/my-wrong-tr.html.twig" />
+        <option value="$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/MyWrongcollection/wrong-choice.html.twig" />
+        <option value="$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/MyWrongcollection/wrong-essay.html.twig" />
+        <option value="$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/MyWrongcollection/wrong-fill.html.twig" />
+        <option value="$PROJECT_DIR$/src/Topxia/Service/WrongCollections/Dao/Impl/QuestionsDaoImpl.php" />
         <option value="$PROJECT_DIR$/src/Topxia/Service/WrongCollections/Dao/WrongCollectionsDao.php" />
-        <option value="$PROJECT_DIR$/src/Topxia/Service/WrongCollections/WrongCollectionsService.php" />
         <option value="$PROJECT_DIR$/src/Topxia/Service/WrongCollections/Dao/Impl/WrongCollectionsDaoImpl.php" />
         <option value="$PROJECT_DIR$/src/Topxia/Service/WrongCollections/Impl/WrongCollectionsServiceImpl.php" />
+        <option value="$PROJECT_DIR$/src/Topxia/Service/WrongCollections/WrongCollectionsService.php" />
+        <option value="$PROJECT_DIR$/src/Topxia/Service/WrongCollections/Dao/CourseInfoDao.php" />
+        <option value="$PROJECT_DIR$/src/Topxia/Service/WrongCollections/Dao/Impl/CourseInfoDaoImpl.php" />
         <option value="$PROJECT_DIR$/src/Topxia/WebBundle/Controller/WrongcollectionController.php" />
+        <option value="$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/MyWrongcollection/my-statistic.html.twig" />
       </list>
     </option>
   </component>
@@ -180,7 +225,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -209,11 +254,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Topxia" />
+              <option name="myItemId" value="web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -227,15 +268,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Topxia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebBundle" />
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -249,19 +282,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Topxia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Controller" />
+              <option name="myItemId" value="cache" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -275,13 +300,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cache" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dev" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -291,7 +324,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WAMP\WWW\edusoho\src\Topxia\Service\WrongCollections\Dao\Impl" />
+      <recent name="D:\WAMP\WWW\edusoho\src\Topxia\Service\WrongCollections\Dao" />
       <recent name="D:\WAMP\WWW\edusoho\src\Topxia\WebBundle\Resources\views\MyWrongcollection" />
+      <recent name="D:\WAMP\WWW\edusoho\web\bundles\topxiaweb\js\controller\wrong-collections" />
       <recent name="D:\WAMP\WWW\edusoho\src\Topxia\AdminBundle\Resources\views\System" />
     </key>
   </component>
@@ -336,17 +372,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26572528" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27792042" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.50513476" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293011" sideWeight="0.4948652" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34680575" sideWeight="0.5125" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991013" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -354,28 +389,10 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31290743" sideWeight="0.4875" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5025674" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25994864" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293011" sideWeight="0.49743262" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -388,195 +405,103 @@
           <line>2</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/Topxia/Service/Question/Impl/QuestionServiceImpl.php</url>
+          <line>134</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/Topxia/Service/Question/Impl/QuestionServiceImpl.php</url>
+          <line>141</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="7" />
+      <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28025478">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Controller/MyThreadController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.05">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-          <folding>
-            <element signature="e#46#91#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Controller/CourseLessonController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.05">
-          <caret line="937" column="44" selection-start-line="937" selection-start-column="44" selection-end-line="937" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Controller/MyNotebookController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="12.774194">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/MyQuiz/layout.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65">
-          <caret line="13" column="73" selection-start-line="13" selection-start-column="73" selection-end-line="13" selection-end-column="80" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Testpaper/module_config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Testpaper/Event/TestpaperEventSubscriber.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.69545454">
-          <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Testpaper/Dao/TestpaperDao.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Testpaper/Dao/TestpaperItemDao.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6">
-          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Testpaper/Dao/TestpaperItemResultDao.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.65">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Testpaper/TestpaperBuilder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/MobileBundleV2/Processor/BaseProcessor.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-40.612904">
-          <caret line="225" column="23" selection-start-line="225" selection-start-column="23" selection-end-line="225" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Testpaper/Dao/TestpaperResultDao.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.064516">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/MobileBundleV2/Processor/Impl/TestpaperProcessorImpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.193548">
-          <caret line="92" column="94" selection-start-line="92" selection-start-column="94" selection-end-line="92" selection-end-column="94" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/MobileBundleV2/Processor/Impl/UserProcessorImpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.064516">
-          <caret line="859" column="49" selection-start-line="859" selection-start-column="49" selection-end-line="859" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Testpaper/TestpaperService.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.95">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="-1.9666667">
+          <caret line="71" column="33" selection-start-line="71" selection-start-column="20" selection-end-line="71" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/My/layout.html.twig">
+    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Testpaper/Impl/TestpaperServiceImpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.709677">
-          <caret line="104" column="28" selection-start-line="104" selection-start-column="28" selection-end-line="104" selection-end-column="28" />
-          <folding />
+        <state vertical-scroll-proportion="-18.466667">
+          <caret line="403" column="5" selection-start-line="403" selection-start-column="5" selection-end-line="403" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/MyQuiz/my-quiz-tr.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="19.870968">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/CourseQuestionManage/question-form-choice.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8969957">
+          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/QuizQuestionTest/testpaper-question-stem.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09421842">
+          <caret line="2" column="102" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="102" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/config/routing.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="1271" column="0" selection-start-line="1271" selection-start-column="0" selection-end-line="1271" selection-end-column="0" />
-          <folding />
+          <caret line="850" column="0" selection-start-line="850" selection-start-column="0" selection-end-line="850" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/MyWrongcollection/layout.html.twig">
+    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/QuizQuestionTest/testpaper-show.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35">
-          <caret line="13" column="38" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="38" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Testpaper/Impl/TestpaperServiceImpl.php">
+    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/QuizQuestionTest/do-test-choice.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3318182">
-          <caret line="241" column="47" selection-start-line="241" selection-start-column="47" selection-end-line="241" selection-end-column="47" />
-          <folding />
+        <state vertical-scroll-proportion="-7.806452">
+          <caret line="41" column="61" selection-start-line="41" selection-start-column="61" selection-end-line="41" selection-end-column="75" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Testpaper/Job/UpdateRealTimeTestResultStatusJob.php">
+    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/QuizQuestionTest/do-test.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.096774">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-          <folding />
+        <state vertical-scroll-proportion="0.04710921">
+          <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/PostFilter/module_config.php">
+    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Question/Type/AbstractQuestionType.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.1290324">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="21" />
-          <folding />
+        <state vertical-scroll-proportion="-0.57601714">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor2/symfony/symfony/src/Symfony/Bridge/Doctrine/DependencyInjection/CompilerPass/RegisterEventListenersAndSubscribersPass.php">
+    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Question/Type/QuestionTypeFactory.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="28.161291">
-          <caret line="64" column="106" selection-start-line="64" selection-start-column="106" selection-end-line="64" selection-end-column="106" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Question/QuestionService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5717344">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -584,337 +509,288 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Controller/BaseController.php">
+    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/QuizQuestionTest/testpaper-result.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.354839">
-          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
-          <folding />
+        <state vertical-scroll-proportion="33.35484">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/User/UserService.php">
+    <entry file="file://$PROJECT_DIR$/web/bundles/topxiaweb/js/controller/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.8333334">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding />
+        <state vertical-scroll-proportion="-1.060241">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/PostFilter/Impl/TokenBucketServiceImpl.php">
+    <entry file="file://$PROJECT_DIR$/web/bundles/topxiaweb/js/controller/quiz-question/do-test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15">
-          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-          <folding />
+        <state vertical-scroll-proportion="-0.044176705">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/User/Impl/UserServiceImpl.php">
+    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/QuizQuestionTest/testpaper-layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.548387">
+          <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/Question/question-actions.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7096774">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/bundles/topxiaweb/js/controller/wrong-collections/show-analysis.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.044176705">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/QuizQuestionTest/do-test-pause-modal.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#43#74#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Thread/Event/ThreadEventSubscriber.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55">
-          <caret line="22" column="55" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Thread/module_config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Question/Dao/Impl/QuestionFavoriteDaoImpl.php">
+    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/QuizQuestionTest/do-test-fill.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1456730538000" expanded="true" signature="240:289" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="792:879" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="1471:1561" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="1739:1794" placeholder="SELECT COUNT..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="1954:2001" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Util/Dao/Impl/SystemUtilDaoImpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1456730538000" expanded="true" signature="270:319" placeholder="SELECT DISTI..upload_files..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor2/doctrine/dbal/lib/Doctrine/DBAL/Connection.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6568182">
-          <caret line="507" column="20" selection-start-line="507" selection-start-column="20" selection-end-line="507" selection-end-column="20" />
-          <folding>
-            <marker date="1456730539000" expanded="true" signature="17188:17231" placeholder="DELETE FROM ..." />
-            <marker date="1456730539000" expanded="true" signature="20402:20456" placeholder="INSERT INTO ${$tableExpression}..." />
-            <marker date="1456730539000" expanded="true" signature="20521:20682" placeholder="INSERT INTO ${$tableExpression}..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Common/BaseDao.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.032258">
-          <caret line="150" column="52" selection-start-line="150" selection-start-column="52" selection-end-line="150" selection-end-column="52" />
-          <folding>
-            <marker date="1456730538000" expanded="true" signature="371:401" placeholder="UPDATE ${{$t..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/WrongCollections/WrongCollectionsService.php">
+    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/QuizQuestionTest/flag.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.5161295">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-          <folding>
-            <element signature="e#6#87#0#PHP" expanded="true" />
-          </folding>
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Testpaper/Dao/Impl/TestpaperItemDaoImpl.php">
+    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/QuizQuestionTest/do-test-essay.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.28265524">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/QuizQuestionTest/do-test-determine.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32976446">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/MyWrongcollection/flag.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5245903">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/MyWrongcollection/wrong-choice.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1456730538000" expanded="true" signature="310:359" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="1115:1160" placeholder="DELETE FROM ..." />
-            <marker date="1456730538000" expanded="true" signature="1314:1357" placeholder="DELETE FROM ..." />
-            <marker date="1456730538000" expanded="true" signature="1632:1683" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="1834:1898" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="2069:2121" placeholder="SELECT COUNT..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="2301:2374" placeholder="SELECT COUNT..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="2572:2649" placeholder="SELECT COUNT..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="2943:2992" placeholder="DELETE FROM ..." />
-            <marker date="1456730538000" expanded="true" signature="3348:3414" placeholder="UPDATE ${{$t..." />
-            <marker date="1456730538000" expanded="true" signature="4857:4925" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-          </folding>
+          <caret line="23" column="100" selection-start-line="22" selection-start-column="16" selection-end-line="23" selection-end-column="100" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Testpaper/Dao/Impl/TestpaperDaoImpl.php">
+    <entry file="file://$PROJECT_DIR$/web/bundles/topxiaweb/js/controller/course/learn.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1456730538000" expanded="true" signature="370:419" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="809:860" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="2758:2813" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="3098:3159" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-          </folding>
+          <caret line="573" column="47" selection-start-line="573" selection-start-column="47" selection-end-line="573" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Testpaper/Dao/Impl/TestpaperResultDaoImpl.php">
+    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/CourseQuestionCategoryManage/tr.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-71.67742">
-          <caret line="102" column="69" selection-start-line="102" selection-start-column="69" selection-end-line="102" selection-end-column="69" />
-          <folding>
-            <marker date="1456730538000" expanded="true" signature="328:377" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="648:740" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="1076:1175" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="1579:1692" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="2038:2120" placeholder="SELECT COUNT..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="2517:2638" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="2987:3077" placeholder="SELECT COUNT..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="3292:3380" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="3557:3612" placeholder="SELECT COUNT..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="4962:5053" placeholder="UPDATE ${{$t..." />
-            <marker date="1456730538000" expanded="true" signature="5406:5449" placeholder="DELETE FROM ..." />
-            <marker date="1456730538000" expanded="true" signature="5649:5711" placeholder="DELETE FROM ..." />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="77" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Testpaper/Dao/Impl/TestpaperItemResultDaoImpl.php">
+    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/CourseQuestionCategoryManage/modal.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="13" selection-end-column="6" />
-          <folding>
-            <marker date="1456730538000" expanded="true" signature="421:470" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="1722:1822" placeholder="INSERT INTO ${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="3306:3395" placeholder="UPDATE ${{$t..." />
-            <marker date="1456730538000" expanded="true" signature="4116:4218" placeholder="UPDATE ${{$t..." />
-            <marker date="1456730538000" expanded="true" signature="4965:5085" placeholder="UPDATE ${{$t..." />
-            <marker date="1456730538000" expanded="true" signature="5776:5861" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="6052:6108" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="6394:6479" placeholder="SELECT COUNT..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="6711:6801" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="6973:7054" placeholder="SELECT COUNT..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="7229:7272" placeholder="DELETE FROM ..." />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Question/Event/QuestionEventSubscriber.php">
+    <entry file="file://$PROJECT_DIR$/web/bundles/topxiaweb/js/controller/quiz-question/do-homework.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-26.548388">
-          <caret line="148" column="80" selection-start-line="148" selection-start-column="80" selection-end-line="148" selection-end-column="80" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Controller/MyQuestionController.php">
+    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/MyWrongcollection/wrong-essay.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.45">
-          <caret line="38" column="51" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
-          <folding>
-            <element signature="e#46#91#0#PHP" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="102" selection-start-line="14" selection-start-column="102" selection-end-line="14" selection-end-column="102" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Question/Dao/QuestionDao.php">
+    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/MyWrongcollection/wrong-fill.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.4193548">
-          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/WrongCollections/Dao/WrongCollectionsDao.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.806452">
-          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-          <folding>
-            <element signature="e#6#87#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Question/QuestionService.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Question/Impl/QuestionServiceImpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55">
-          <caret line="17" column="57" selection-start-line="16" selection-start-column="8" selection-end-line="17" selection-end-column="57" />
-          <folding>
-            <element signature="e#47#85#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Question/Dao/Impl/QuestionDaoImpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.5523114">
-          <caret line="29" column="71" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="71" />
-          <folding>
-            <element signature="e#51#85#0#PHP" expanded="true" />
-            <marker date="1456730538000" expanded="true" signature="396:445" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="843:894" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="1141:1213" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="1491:1551" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="1824:1913" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="2305:2452" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="3097:3303" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="3577:3637" placeholder="SELECT count..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="4070:4216" placeholder="SELECT count..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="4504:4561" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="5663:5717" placeholder="SELECT count..${{$this-&gt;table}..." />
-            <marker date="1456730538000" expanded="true" signature="6692:6737" placeholder="DELETE FROM ..." />
-            <marker date="1456730538000" expanded="true" signature="7247:7319" placeholder="UPDATE ${{$t..." />
-            <marker date="1456730538000" expanded="true" signature="8346:8444" placeholder="SELECT COUNT..${{$this-&gt;table}..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Controller/QuestionController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.064516">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#46#91#0#PHP" expanded="true" />
-            <element signature="e#252#1371#0#PHP" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="81" selection-start-line="13" selection-start-column="81" selection-end-line="13" selection-end-column="81" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Controller/TestpaperController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.8387096">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.047008548">
+          <caret line="154" column="64" selection-start-line="154" selection-start-column="64" selection-end-line="154" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/WrongCollections/Dao/WrongCollectionsDao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.5161295">
+          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/Testpaper/Dao/Impl/TestpaperDaoImpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7051282">
+          <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/MyWrongcollection/my-wrong-tr.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50213677">
+          <caret line="15" column="80" selection-start-line="15" selection-start-column="80" selection-end-line="15" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/WrongCollections/Dao/Impl/WrongCollectionsDaoImpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="30" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor2/symfony/symfony/src/Symfony/Component/HttpFoundation/Resources/stubs/SessionHandlerInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.09318182">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/SessionHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.09318182">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/cache/dev/classes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32126698">
+          <caret line="371" column="83" selection-start-line="371" selection-start-column="83" selection-end-line="371" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app_dev.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05">
+          <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/WrongCollections/Dao/QuestionsDao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4193548">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/WrongCollections/Dao/Impl/QuestionsDaoImpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.2">
+          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/WrongCollections/Dao/CourseInfoDao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.096774">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/MyWrongcollection/my-wrongcollections.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.096774">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Controller/WrongcollectionController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.5161295">
+          <caret line="99" column="42" selection-start-line="99" selection-start-column="42" selection-end-line="99" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/WrongCollections/Dao/Impl/CourseInfoDaoImpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.645162">
+          <caret line="44" column="99" selection-start-line="44" selection-start-column="99" selection-end-line="44" selection-end-column="99" />
           <folding>
-            <element signature="e#2128#3900#0#PHP" expanded="false" />
-            <element signature="e#3906#5038#0#PHP" expanded="false" />
-            <element signature="e#5044#5693#0#PHP" expanded="false" />
-            <element signature="e#5699#6499#0#PHP" expanded="false" />
-            <element signature="e#6505#8315#0#PHP" expanded="false" />
-            <element signature="e#8321#10559#0#PHP" expanded="false" />
-            <element signature="e#10565#11451#0#PHP" expanded="false" />
-            <element signature="e#11457#11984#0#PHP" expanded="false" />
-            <element signature="e#11990#14722#0#PHP" expanded="false" />
-            <element signature="e#14728#17897#0#PHP" expanded="false" />
-            <element signature="e#17903#18060#0#PHP" expanded="false" />
-            <element signature="e#18066#18969#0#PHP" expanded="false" />
-            <element signature="e#18975#21110#0#PHP" expanded="false" />
-            <element signature="e#21116#23247#0#PHP" expanded="false" />
-            <element signature="e#23253#24782#0#PHP" expanded="false" />
-            <element signature="e#24788#25579#0#PHP" expanded="false" />
-            <element signature="e#25585#25717#0#PHP" expanded="false" />
-            <element signature="e#25723#25862#0#PHP" expanded="false" />
-            <element signature="e#25868#26004#0#PHP" expanded="false" />
-            <element signature="e#26422#26536#0#PHP" expanded="false" />
+            <element signature="e#141#175#0#PHP" expanded="true" />
+            <marker date="1473410236304" expanded="true" signature="583:613" placeholder="SELECT cours..$..." />
+            <marker date="1473410236304" expanded="true" signature="583:648" placeholder="SELECT cours..${$table_cll}..." />
+            <marker date="1473410236304" expanded="true" signature="949:967" placeholder="SELECT title..${{$}..." />
+            <marker date="1473410236304" expanded="true" signature="949:983" placeholder="SELECT title..." />
+            <marker date="1473410236304" expanded="true" signature="949:996" placeholder="SELECT title..${{$this-&gt;table_c}..." />
+            <marker date="1473410236304" expanded="true" signature="1301:1308" placeholder="SELECT id,ti..${{$this-&gt;table_c}..." />
+            <marker date="1473410236304" expanded="true" signature="1301:1366" placeholder="SELECT DISTI..${{$this-&gt;table_cll}..." />
+            <marker date="1473410236304" expanded="true" signature="1498:1549" placeholder="SELECT id, t..${{$this-&gt;table_c}..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Topxia/Service/WrongCollections/Impl/WrongCollectionsServiceImpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.8387096">
-          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
-          <folding>
-            <element signature="e#6#87#0#PHP" expanded="true" />
-            <element signature="e#137#175#0#PHP" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="-0.7096774">
+          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/WrongCollections/Dao/Impl/WrongCollectionsDaoImpl.php">
+    <entry file="file://$PROJECT_DIR$/src/Topxia/Service/WrongCollections/WrongCollectionsService.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.645162">
-          <caret line="25" column="32" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="32" />
-          <folding>
-            <element signature="e#6#87#0#PHP" expanded="true" />
-            <element signature="e#141#175#0#PHP" expanded="true" />
-            <marker date="1472806451958" expanded="true" signature="572:586" placeholder="SELECT * FRO..${{$this}..." />
-            <marker date="1472806451958" expanded="true" signature="572:600" placeholder="SELECT * FRO..." />
-            <marker date="1472806451958" expanded="true" signature="572:638" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-          </folding>
+        <state vertical-scroll-proportion="-4.322581">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Controller/WrongcollectionController.php">
+    <entry file="file://$PROJECT_DIR$/src/Topxia/WebBundle/Resources/views/MyWrongcollection/my-statistic.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45">
-          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.47045454">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
           <folding />
         </state>
       </provider>
